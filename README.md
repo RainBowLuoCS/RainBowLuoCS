@@ -1,4 +1,4 @@
-### Hi I am RunLuo 👋
+### Hi I am Run Luo 👋
 
 My PhD Research Objectives for the Coming Years:
 
