@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rainbowluo/rainbowluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 PhD Research Objectives for the Coming Years:
 
 Objective 1 (RUN1): Develop a GUI-integrated Multimodal Large Language Model (MLLM) capable of autonomously completing all complex tasks at the operating system level, replacing 90% of routine work through a single RL-optimized MLLM model.
