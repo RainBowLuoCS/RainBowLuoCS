@@ -9,4 +9,6 @@ Objective 2 (RUN2): Enable MLLM to achieve L4-level autonomous machine navigatio
 Objective 3 (RUN3): Generalize MLLM to embodied intelligent coordination and control, creating a unified super-intelligent model integrating: Spatial perception,Task planning,Motion generation,Feedback execution,Cross-modal understanding
 
 This research roadmap aims to push the boundaries of MLLM capabilities across three critical dimensions of human-machine interaction and autonomous systems.
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainbowluo)](https://github.com/anuraghazra/github-readme-stats)
