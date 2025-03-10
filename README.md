@@ -11,4 +11,4 @@ Objective 3 (RUN3): Generalize MLLM to embodied intelligent coordination and con
 This research roadmap aims to push the boundaries of MLLM capabilities across three critical dimensions of human-machine interaction and autonomous systems.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainbowluocs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RainBowLuoCS)](https://github.com/anuraghazra/github-readme-stats)
